@@ -7,6 +7,7 @@
 - Lombok
 - JDBC, SQL, H2
 - Maven
+- Junit
 
 ## Описание
 
